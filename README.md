@@ -35,8 +35,14 @@ python DEMO.py
 **Step 4: Issue the command "OK Turn on/off the light"**
 
 - TURN ON:
+
+
 ![image](https://github.com/Shan-Lee2k/Smart-Home/assets/120365693/93537d86-89b5-43be-88e3-288c22686bc7)
+
+
 - TURN OFF:
+
+
 ![image](https://github.com/Shan-Lee2k/Smart-Home/assets/120365693/ed9fa370-088a-43a4-8d32-f05f5011e286)
 
 
