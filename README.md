@@ -16,8 +16,11 @@ python DEMO.py
 ```
 
 **Step 3: Before Recognizing Face**
+
 ![image](https://github.com/Shan-Lee2k/Smart-Home/assets/120365693/b572372c-1d62-4f8d-82f8-e20e4517c084)
+
 **After Recognizing Face**
+
 ![image](https://github.com/Shan-Lee2k/Smart-Home/assets/120365693/df92f236-19dd-48f5-870c-f403c5b74538)
 
 
